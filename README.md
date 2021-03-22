@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @houmenghang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-houmenghang/houmenghang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 这是日常的一些无聊代码的记录
+- 👀 对python感兴趣，后面可能会尝试一下java
+- 🌱 代码都是学习代码
